@@ -35,3 +35,7 @@
 ## 想法来源
 
 [静态文件服务](https://www.cnblogs.com/adoontheway/p/8288295.html)
+
+## README in English
+
+[README](./README.md)

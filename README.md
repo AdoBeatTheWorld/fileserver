@@ -34,3 +34,9 @@ Powered By Golang, fileserver could be build for Linux,MacOS etc.
 
 [Local File Static Service](https://www.cnblogs.com/adoontheway/p/8288295.html)
 
+
+
+## 中文介绍
+
+[中文介绍](./README-CN.md)
+
