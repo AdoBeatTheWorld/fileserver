@@ -16,9 +16,11 @@
 
 ## 预览
 
-![Preview](E:/workspace/go/src/github.com/adobeattheworld/fileserver/preview/pre0.png)
+![Preview](./preview/pre0.png)
 
-![Preview](E:/workspace/go/src/github.com/adobeattheworld/fileserver/preview/pre1.png)
+
+
+![Preview](./preview/pre1.png)
 
 
 
